@@ -27,7 +27,7 @@ Faculdade de Tecnologia de São José Dos Campos – Logística
 | Pacote Office | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |<br>
 | ---------------------- | ------------- |
 
-# Atividades #
+# LOGISTICA #
 
 Usando fórmulas e dados abertos 
 
@@ -38,5 +38,36 @@ https://github.com/thainara1602/informatica/blob/main/ATIVIDADEINFORMATICA%20THA
 https://github.com/thainara1602/informatica/blob/main/%C3%8Dndice%20de%20Desenvolvimento%20da%20Educa%C3%A7%C3%A3o%20B%C3%A1sica%20Hitalo%20e%20Thainara.xlsx
 
 <br>
+
+<b>Tarefa 1<b>
+
+<br>
+
+<img src ="https://github.com/user-attachments/assets/d5304657-458b-4c5c-987e-ef4e65e50d1a">
+
+<br><br>
+
+Tarefa 2
+
+<br>
+<img src="https://github.com/user-attachments/assets/acac6a8b-6acc-4fec-b10a-1e975edd98dd")>
+
+<br><br>
+
+Tarefa 3
+
+<br>
+
+<img src ="https://github.com/user-attachments/assets/f3661251-cf55-4fe3-b521-0d7be53989a8">
+
+<br><br>
+
+Tarefa 4
+
+<br><br>
+
+<img src ="https://github.com/user-attachments/assets/620d29f4-62e1-42d6-81cb-6ef8d06a3407">
+
+<br><br>
 
 </details>
