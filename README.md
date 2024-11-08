@@ -10,7 +10,7 @@
 
 
 
-# Objetivo Prossifinal #
+# Objetivo Profissional #
 
 Usar minha experiência em logística e habilidades em comex para melhorar processos e inovação.
 
@@ -21,13 +21,13 @@ Faculdade de Tecnologia de São José Dos Campos – Logística
 2024-Em Curso
 
 
-# Experiencia em Softwares e Ferramentas #
-| ---------------------- | ------------- |<br>
+# Experiência em Softwares e Ferramentas #
+| ---------------------- | ------------- |<br> 
 | GitHub | ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |<br>
 | Pacote Office | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |<br>
 | ---------------------- | ------------- |
 
-# LOGISTICA #
+# LOGÍSTICA #
 
 Usando fórmulas e dados abertos 
 
